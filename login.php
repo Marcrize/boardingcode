@@ -45,7 +45,7 @@
 
             if (email === correctEmail && password === correctPassword) {
                 alert("Login successful!");
-                document.href = '/accessgranted.php';
+                document.href = '/accessgranted.txt';
             } else {
                 alert("Invalid email or password.");
             }
