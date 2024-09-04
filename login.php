@@ -36,7 +36,7 @@
     <!-- JavaScript for login verification -->
     <script>
         function login() {
-            const correctEmail = "love@127.0.0.1";
+            const correctEmail = "passenger1627";
             const correctPassword = "0Mgshēzs0cute";
 
             // Get user input
@@ -45,7 +45,7 @@
 
             if (email === correctEmail && password === correctPassword) {
                 alert("Login successful!");
-                document.href = '/s14in10veandg0trejectedlol';
+                document.href = '/accessgranted.php';
             } else {
                 alert("Invalid email or password.");
             }
