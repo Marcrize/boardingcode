@@ -1,1 +1,1 @@
-CMD ["https://boardingcode.onrender.com/login.php"]
+CMD ["https://boardingcode.onrender.com/login.html"]
